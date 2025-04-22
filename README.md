@@ -1,5 +1,6 @@
 # Business-Intelligence-with-Microsoft-Excel
  A Smart Financial Tracker To  Automate  Entire Business Workflow .
+ 
 # Beyond the Skill: Why Business Management Matters
 We all know the importance of learning a skill, but what about the crucial element of managing your business?  It's easy to get caught up in mastering the craft, but without proper management, you might find yourself struggling to keep afloat. 
 
@@ -12,7 +13,7 @@ Don't let this happen to you!  It's essential to invest in learning how to manag
 Remember, business management isn't just about keeping track of money – it's about making sure your business is sustainable and thriving, As we've discussed, handling the financial aspect of your business is crucial for its success and sustainability. To emphasize this importance, I'd like to share the different sheets and the functionalities.
 
 
-📊 **Download the full workbook here:** [Business_Management_System.xlsx](./Business_Management_System.xlsx)
+📊 **Download the full workbook here:** [Business_Management_System.xlsx]([./Business_Management_System.xlsx](https://github.com/Tayeteni/Business-Intelligence-with-Microsoft-Excel/blob/main/Business%20Automated%20workbook%20project.xlsx))
 
 ...
 
@@ -34,7 +35,6 @@ Example: If you purchased 10 ceramic lamps and sold 1, the Inventory Sheet will 
 
 
 ### 2. Expense Report Sheet
- [EXPENSE REPORT 
 
 Tracks and records business expenses, including date, item, category, quantity, unit price, total cost, supplier, and notes. Also includes a status column to mark expenses as 'cleared' or 'uncleared', indicating whether they've been deducted from sales revenue to calculate gross profit.
 
@@ -166,6 +166,6 @@ Amount Paid: $75.00
 Thank you for your purchase!
 ---
 
-📊 **Once again, here is the full workbook:** [Business_Management_System.xlsx]()
+📊 **Once again, here is the full workbook:** [Business_Management_System.xlsx](https://github.com/Tayeteni/Business-Intelligence-with-Microsoft-Excel/blob/main/Business%20Automated%20workbook%20project.xlsx)
 
-Feel free to explore the file and customize it to your business needs!
+
