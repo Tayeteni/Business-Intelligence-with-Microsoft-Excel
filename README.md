@@ -13,7 +13,7 @@ Don't let this happen to you!  It's essential to invest in learning how to manag
 Remember, business management isn't just about keeping track of money – it's about making sure your business is sustainable and thriving, As we've discussed, handling the financial aspect of your business is crucial for its success and sustainability. To emphasize this importance, I'd like to share the different sheets and the functionalities.
 
 
-📊 **Download the full workbook here:** [Business_Management_System.xlsx]([./Business_Management_System.xlsx](https://github.com/Tayeteni/Business-Intelligence-with-Microsoft-Excel/blob/main/Business%20Automated%20workbook%20project.xlsx))
+📊 **Download the full workbook here:** (https://github.com/Tayeteni/Business-Intelligence-with-Microsoft-Excel/blob/main/Business%20Automated%20workbook%20project.xlsx))
 
 ...
 
@@ -166,6 +166,6 @@ Amount Paid: $75.00
 Thank you for your purchase!
 ---
 
-📊 **Once again, here is the full workbook:** [Business_Management_System.xlsx](https://github.com/Tayeteni/Business-Intelligence-with-Microsoft-Excel/blob/main/Business%20Automated%20workbook%20project.xlsx)
+📊 **Once again, here is the full workbook:**(https://github.com/Tayeteni/Business-Intelligence-with-Microsoft-Excel/blob/main/Business%20Automated%20workbook%20project.xlsx)
 
 
